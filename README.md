@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>🚀 Working on Wipe. Right now...</p>
+<p align="left">✨ Creating bugs since 2020<br>🚀 Working on "Wipe." right now...</p>
 
 ####
 
